@@ -16,11 +16,11 @@ MANDATORY_CHANNELS = [
 
 # Sample airdrops (آپ یہاں 20 تک ایئرڈراپس شامل کر سکتے ہیں)
 AIRDROPS = [
-    {"name": "Airdrop 1", "link": "https://t.me/airdrop1"},
-    {"name": "Airdrop 2", "link": "https://t.me/airdrop2"},
-    {"name": "Airdrop 3", "link": "https://t.me/airdrop3"},
-    {"name": "Airdrop 4", "link": "https://t.me/airdrop4"},
-    {"name": "Airdrop 5", "link": "https://t.me/airdrop5"}
+    {"name": "Airdrop 1", "link": "https://t.me/DurovCapsBot/caps?startapp=7631929367"},
+    {"name": "Airdrop 2", "link": "https://t.me/DurovCapsBot/caps?startapp=7631929367"},
+    {"name": "Airdrop 3", "link": "https://t.me/DurovCapsBot/caps?startapp=7631929367"},
+    {"name": "Airdrop 4", "link": "https://t.me/DurovCapsBot/caps?startapp=7631929367"},
+    {"name": "Airdrop 5", "link": "https://t.me/DurovCapsBot/caps?startapp=7631929367"}
 ]
 
 # ====================== DATABASE SETUP ======================
